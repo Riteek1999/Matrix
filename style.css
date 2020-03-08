@@ -1,0 +1,41 @@
+html{
+    position: relative;
+    min-height: 100%;
+}
+body{
+        font-family: sans-serif;
+        margin: 0%;
+        padding: 0;
+        background-image: url('views/background.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-color: #0D5F53 ;
+        margin-bottom: 60px;
+}
+h2{
+    color: lime;
+    font-family: sans-serif;
+}
+.footer{
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+}
+.mainContainer{
+    padding: 20px;
+}
+.time{
+    color: #76C8CE;
+}
+.tweet{
+    border: 1px solid darkgreen;
+    background-color: #AAF9D9;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
