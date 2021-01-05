@@ -11,4 +11,4 @@ It is a new-feed website with model type login/logout system and features descri
 - It has a pretty good interface but is partially responsive(working)
 
 #### Link
-to use this website go to http://Matrix.freesite.vip
+to use this website go to http://metrix.freesite.vip/
